@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+*.xlsx
+*.xls
+*.csv
+*.zip
+*.tar.gz
+backups/
+학생기록/
